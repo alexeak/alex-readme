@@ -2,16 +2,14 @@ Alex Eakins
 
 ---
 
-21 Yr. Old University Student located out of Asheville, NC. 
+21 Yr. Old Student located out of Asheville, NC. 
 
 ---
 
-Degree in Accounting from the University of North Carolina Asheville.
+Degree in Management Information Systems from East Carolina University
 
 ---
 
-I'm interested in a FinTech career, preferably in data analysis/data science. 
+I am on a mission to further my programming/coding experience
 
 ---
-
-I believe FinTech is the future of the finance world. I'm excited to be part of a new, expanding field with so much to learn about. 
