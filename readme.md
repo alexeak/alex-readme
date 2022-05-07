@@ -1,15 +1,12 @@
-Alex Eakins
+## Alex Eakins
 
 ---
 
-21 Yr. Old Student located out of Asheville, NC. 
+- 21 Yr. Old Student located in the Denver/Boulder area.
 
 ---
 
-Degree in Management Information Systems from East Carolina University
-
----
-
-I am on a mission to further my programming/coding experience
+ - Bachelor's Degree in Management Information Systems from East Carolina University
+ - University of Pennsylvania FinTech Bootcamp
 
 ---
